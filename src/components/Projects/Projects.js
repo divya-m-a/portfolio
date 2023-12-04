@@ -25,9 +25,15 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="PortFolio"
+              description="Precision meets innovation in my personal portfolio, 
+              powered by React.js, Material-UI, and Bootstrap. The Home page introduces my professional 
+              journey, the About section provides key insights, and the Resume page details my 
+              qualifications. Dive into the Projects section for a showcase of my technical proficiency.
+               This sleek portfolio is a testament to my commitment to modern web
+                development and user-centric design.
+               Explore for a quick, comprehensive view of my skills and achievements."
+              ghLink="https://github.com/divya-m-a/portfolio"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -36,9 +42,13 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              title="Pixel-Perfect Web Replication: HTML, CSS, JS Mastery"
+              description="
+I meticulously replicated a demo website using HTML, CSS, and JavaScript, 
+achieving a 99% match. This project exemplifies my prowess in front-end development,
+ showcasing precision in design and functionality. The use of these core technologies 
+underscores my ability to create polished, true-to-form web experiences."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
             />
           </Col>
 

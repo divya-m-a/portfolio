@@ -8,7 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple"> Divya Murugesan </span>
+            Hi, I'm <span className="purple"> Divya Murugesan </span>, a
+            passionate Frontend Maestro currently weaving digital wonders at
+            <span className="purple"> Lakeba IT Solutions</span> in Coimbatore.{" "}
+            <br /> Armed with a{" "}
+            <span className="purple">B.Tech in Information Technology</span>{" "}
+            from Kamaraj College of Engineering and Technology, I thrive on
+            transforming ideas into visually stunning realities. <br />
+            {/* Hi Everyone, I am <span className="purple"> Divya Murugesan </span>
             from <span className="purple"> Tamil Nadu, India.</span>
             <br />
             I am currently employed as a software developer at Lakeba.
@@ -17,6 +24,7 @@ function AboutCard() {
             Mesra.
             <br />
             <br />
+            Apart from coding, some other activities that I love to do! */}
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
