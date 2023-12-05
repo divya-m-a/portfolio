@@ -56,9 +56,13 @@ underscores my ability to create polished, true-to-form web experiences."
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              title="Attendance Tracking System"
+              description="Elevate attendance tracking with our precise Attendance
+               Management System. Powered by Node.js, Express.js, and PostgreSQL,
+                it seamlessly executes CRUD operations, enabling effortless record
+                 management. A testament to efficiency and reliability in attendance tracking,
+                  our system ensures precision and user-friendly functionality"
+              ghLink="https://github.com/divya-m-a/AttendanceMangaement"
             />
           </Col>
         </Row>
